@@ -12,6 +12,6 @@ s.source       = { :git => "https://github.com/fanfan19920219/zhangzhihuacocoapo
 "#{s.version}" }
   s.frameworks = 'UIKit', 'AssetsLibrary', 'AVFoundation'
   s.requires_arc = true
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  s.source_files  = "Classes", "Classes/*.{h,m}"
 
 end
